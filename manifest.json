@@ -1,0 +1,252 @@
+{
+  "version": 1,
+  "locale": "English_United States.1252",
+  "metadata": {
+    "appmode": "python-dash",
+    "entrypoint": "HAI_Cluster_Visualization"
+  },
+  "python": {
+    "version": "3.12.3",
+    "package_manager": {
+      "name": "pip",
+      "version": "24.3.1",
+      "package_file": "requirements.txt"
+    }
+  },
+  "files": {
+    "requirements.txt": {
+      "checksum": "d1a0fb77e8455dc5dcfe8814b5633493"
+    },
+    "HAI_Cluster_Visualization.ipynb": {
+      "checksum": "ad348931f21b731955ab1bfd6a481d91"
+    },
+    "HAI_Cluster_Visualization.py": {
+      "checksum": "c5ed67109196edae808b58f27be3e36c"
+    },
+    "Linelist.2025-03-25.tsv": {
+      "checksum": "2dfe59ddae959d67f48614ee79439c37"
+    },
+    "NY.Subclusters_Feb2025.selected.xlsx": {
+      "checksum": "918af1fc6552d13b02846da6995e56a4"
+    },
+    "Procfile": {
+      "checksum": "0478fc9f2e43bdb38ace54e62ce6d2ed"
+    },
+    "tree/Escherichia/MUL_EC_NDM_2025_2-3.2025_SNP_matrix.txt": {
+      "checksum": "2b545dfc321de4422d438e9fb8e62016"
+    },
+    "tree/Escherichia/MUL_EC_NDM_2025_2-3.2025_tree.png": {
+      "checksum": "90ea27fceed34bcbbf5bd16311dda7eb"
+    },
+    "tree/Escherichia/MUL_EC_NDM_2025_3-3.2025_SNP_matrix.txt": {
+      "checksum": "beee713f876560f39d33dd6e1b2997b2"
+    },
+    "tree/Escherichia/MUL_EC_NDM_2025_3-3.2025_tree.png": {
+      "checksum": "47f27f3d264e04f38f1164c0dd16a834"
+    },
+    "tree/Escherichia/MUL_EC_NDM_2025_4-3.2025_SNP_matrix.txt": {
+      "checksum": "0a7740ca80c024f73fb0e7043253c91c"
+    },
+    "tree/Escherichia/MUL_EC_NDM_2025_4-3.2025_tree.png": {
+      "checksum": "6cd7a6b54947131d2581e6e8da028419"
+    },
+    "tree/Escherichia/MUL_EC_NDM_2025_5-3.2025_SNP_matrix.txt": {
+      "checksum": "dce511f41b72ccfd19436dd5ca34e94f"
+    },
+    "tree/Escherichia/MUL_EC_NDM_2025_5-3.2025_tree.png": {
+      "checksum": "bc915f7a47604b60c06c446e9f0d917b"
+    },
+    "tree/Escherichia/MUL_EC_NDM_2025_6-3.2025_SNP_matrix.txt": {
+      "checksum": "57c0c8b6e30d3232b77949532f757717"
+    },
+    "tree/Escherichia/MUL_EC_NDM_2025_6-3.2025_tree.png": {
+      "checksum": "0d134472ee6313c4de12706afaadad2f"
+    },
+    "tree/Escherichia/MUL_EC_NDM_2025_7-3.2025_SNP_matrix.txt": {
+      "checksum": "3b853c860285c73d766322220763a208"
+    },
+    "tree/Escherichia/MUL_EC_NDM_2025_7-3.2025_tree.png": {
+      "checksum": "42be0b97508374331f51d858655876be"
+    },
+    "tree/Escherichia/MUL_EC_OXA48_2025_1-3.2025_SNP_matrix.txt": {
+      "checksum": "f4853388a1ff1a1cee388a727097cbeb"
+    },
+    "tree/Escherichia/MUL_EC_OXA48_2025_1-3.2025_tree.png": {
+      "checksum": "12df5f1b315c574250c9c85844debf46"
+    },
+    "tree/Escherichia/NEI_EC_NDM_2025_1-3.2025_SNP_matrix.txt": {
+      "checksum": "0f5bdf26da452d94e0ca666401edcb77"
+    },
+    "tree/Escherichia/NEI_EC_NDM_2025_1-3.2025_tree.png": {
+      "checksum": "f9d9fe63bffd51cb5f639b415ef4ce98"
+    },
+    "tree/Escherichia/NY_EC_NDM_2025_1-3.2025_SNP_matrix.txt": {
+      "checksum": "71787faeb1cd28bf99749c628acbc0cb"
+    },
+    "tree/Escherichia/NY_EC_NDM_2025_1-3.2025_tree.png": {
+      "checksum": "c5b70eec80c5789afbaf51ae852c3a62"
+    },
+    "tree/Klebsiella/MUL_KP_KPC_2025_1-3.2025_SNP_matrix.txt": {
+      "checksum": "3de5f7e88b07b56fec1d296b2c673642"
+    },
+    "tree/Klebsiella/MUL_KP_KPC_2025_1-3.2025_tree.png": {
+      "checksum": "aa4f6a682c9f67f9e9a6722aaebeeff4"
+    },
+    "tree/Klebsiella/MUL_KP_NDM_2025_1-3.2025_SNP_matrix.txt": {
+      "checksum": "76e8da98d3a21fdd8bd445ac9fc3e1fb"
+    },
+    "tree/Klebsiella/MUL_KP_NDM_2025_1-3.2025_tree.png": {
+      "checksum": "2fcd50be9372959e8d3f7191b6c01d7d"
+    },
+    "tree/Klebsiella/NEI_KP_NDM_2025_1-3.2025_SNP_matrix.txt": {
+      "checksum": "e62c8bea29e191abc573344301c1cb71"
+    },
+    "tree/Klebsiella/NEI_KP_NDM_2025_1-3.2025_tree.png": {
+      "checksum": "847902a6a227b7774e4b424d30df60dc"
+    },
+    "tree/Klebsiella/NEI_KP_NDM_2025_2-3.2025_SNP_matrix.txt": {
+      "checksum": "d7f87115ea9f123e5af37696de693fcb"
+    },
+    "tree/Klebsiella/NEI_KP_NDM_2025_2-3.2025_tree.png": {
+      "checksum": "b9f94da2dd5c132b7a73a387eb8cbc02"
+    },
+    "tree/Klebsiella/NEI_KP_NDM_2025_3-3.2025_SNP_matrix.txt": {
+      "checksum": "ba1c5c5a01446f267ce12d9fc6026074"
+    },
+    "tree/Klebsiella/NEI_KP_NDM_2025_3-3.2025_tree.png": {
+      "checksum": "9ca12b66dde6475d3a4d8bd1d3d0c357"
+    },
+    "tree/Klebsiella/NYC_KP_KPC_2025_1-3.2025_SNP_matrix.txt": {
+      "checksum": "b2cc3dc7c6dd383d19404e7a8bcd4e63"
+    },
+    "tree/Klebsiella/NYC_KP_KPC_2025_1-3.2025_tree.png": {
+      "checksum": "267cf1af6e99503e2e0b36255e91b2c7"
+    },
+    "tree/Klebsiella/NYC_KP_NDM_2025_1-3.2025_SNP_matrix.txt": {
+      "checksum": "85d2e388540bf1ff186e309f159cf7a1"
+    },
+    "tree/Klebsiella/NYC_KP_NDM_2025_1-3.2025_tree.png": {
+      "checksum": "ad3b98b26e6a9a5e77cc598d10cb8261"
+    },
+    "tree/Klebsiella/NY_KP_NDM_2025_1-3.2025_SNP_matrix.txt": {
+      "checksum": "59f48a2d54e54e4b794bfbf5fb96a150"
+    },
+    "tree/Klebsiella/NY_KP_NDM_2025_1-3.2025_tree.png": {
+      "checksum": "792f3c8cd9cbfade6573fffa3ff78c8a"
+    },
+    "tree/Klebsiella/NY_KP_NDM_2025_10-3.2025_SNP_matrix.txt": {
+      "checksum": "6e907ff73b5cb86443a1306f9ddccc5a"
+    },
+    "tree/Klebsiella/NY_KP_NDM_2025_10-3.2025_tree.png": {
+      "checksum": "8e4a358ede8a922a019ec0ee13fb0d55"
+    },
+    "tree/Klebsiella/NY_KP_NDM_2025_2-3.2025_SNP_matrix.txt": {
+      "checksum": "6c4640ad9295b0b8fa742a26141cf15f"
+    },
+    "tree/Klebsiella/NY_KP_NDM_2025_2-3.2025_tree.png": {
+      "checksum": "f1a1ef87fd7bb2383b22bd113c2a6de3"
+    },
+    "tree/Klebsiella/NY_KP_NDM_2025_3-3.2025_SNP_matrix.txt": {
+      "checksum": "39924053fa15295af4bcc3e1f4faff46"
+    },
+    "tree/Klebsiella/NY_KP_NDM_2025_3-3.2025_tree.png": {
+      "checksum": "43566d8c83a028bb253abc26ae3b40f2"
+    },
+    "tree/Klebsiella/NY_KP_NDM_2025_4-3.2025_SNP_matrix.txt": {
+      "checksum": "c590b4d871e0fdd3ec98a22fb73c4631"
+    },
+    "tree/Klebsiella/NY_KP_NDM_2025_4-3.2025_tree.png": {
+      "checksum": "cc736474d51d43fce99ff4500cf9fb9f"
+    },
+    "tree/Klebsiella/NY_KP_NDM_2025_5-3.2025_SNP_matrix.txt": {
+      "checksum": "443059d5adca8956e170d203007ee83e"
+    },
+    "tree/Klebsiella/NY_KP_NDM_2025_5-3.2025_tree.png": {
+      "checksum": "166312b908ceef63d958666a819d18e6"
+    },
+    "tree/Klebsiella/NY_KP_NDM_2025_6-3.2025_SNP_matrix.txt": {
+      "checksum": "9992f608eb65d63b8f9c0a0907eac92c"
+    },
+    "tree/Klebsiella/NY_KP_NDM_2025_6-3.2025_tree.png": {
+      "checksum": "63f434754d3c1292dc35bf78ab998608"
+    },
+    "tree/Klebsiella/NY_KP_NDM_2025_7-3.2025_SNP_matrix.txt": {
+      "checksum": "31e57a255b729b62395f4575e505731d"
+    },
+    "tree/Klebsiella/NY_KP_NDM_2025_7-3.2025_tree.png": {
+      "checksum": "89f293708d0d0697f595aee200fe1ac7"
+    },
+    "tree/Klebsiella/NY_KP_NDM_2025_8-3.2025_SNP_matrix.txt": {
+      "checksum": "0cd514ed0596b7696530104d87e6cd91"
+    },
+    "tree/Klebsiella/NY_KP_NDM_2025_8-3.2025_tree.png": {
+      "checksum": "2ef4884cf6693b8cf46446f00044c1df"
+    },
+    "tree/Klebsiella/NY_KP_NDM_2025_9-3.2025_SNP_matrix.txt": {
+      "checksum": "b1edc610cfa9204ab8cbd8a9bf43da44"
+    },
+    "tree/Klebsiella/NY_KP_NDM_2025_9-3.2025_tree.png": {
+      "checksum": "ca020c4fa6a866e8c47bde6069db5624"
+    },
+    "tree/Klebsiella/NY_KP_OXA48_2025_1-3.2025_SNP_matrix.txt": {
+      "checksum": "4a21fb4a611387d3578d36376e63c3f2"
+    },
+    "tree/Klebsiella/NY_KP_OXA48_2025_1-3.2025_tree.png": {
+      "checksum": "88a55cd8d61568221fdd24eae071798f"
+    },
+    "tree/Klebsiella/NY_KP_OXA48_2025_2-3.2025_SNP_matrix.txt": {
+      "checksum": "282ebf5573047a2248a3f87d70f439c5"
+    },
+    "tree/Klebsiella/NY_KP_OXA48_2025_2-3.2025_tree.png": {
+      "checksum": "e5f4b1ae94d69be6961dd840445ba688"
+    },
+    "tree/Klebsiella/NY_KP_OXA48_2025_3-3.2025_SNP_matrix.txt": {
+      "checksum": "939996d79e4c9b0e4e2f7271145d5318"
+    },
+    "tree/Klebsiella/NY_KP_OXA48_2025_3-3.2025_tree.png": {
+      "checksum": "fa4a337a892ae9d389202fa736e8e5bb"
+    },
+    "tree/Klebsiella/filtered_NY_KP_NDM_2025_7-3.2025_SNP_matrix.txt": {
+      "checksum": "51baa9aac1b1845c1c6a81ea15502925"
+    },
+    "tree/Klebsiella/filtered_NY_KP_NDM_2025_7-3.2025_tree.png": {
+      "checksum": "f06bad0153b172504c80343a92578488"
+    },
+    "tree/Pseudomonas/MUL_PA_NDM_2025_1-3.2025_SNP_matrix.txt": {
+      "checksum": "8bfd2cc8f38af6e433f3ad340e7ab47c"
+    },
+    "tree/Pseudomonas/MUL_PA_NDM_2025_1-3.2025_tree.png": {
+      "checksum": "bcac83352edb0fbba76454b3430f7daf"
+    },
+    "tree/Pseudomonas/NY_PA_KPC_2025_1-3.2025_SNP_matrix.txt": {
+      "checksum": "213a4aeeec55065b068e671aeaacd985"
+    },
+    "tree/Pseudomonas/NY_PA_KPC_2025_1-3.2025_tree.png": {
+      "checksum": "e515718cd196b27adb10d0bfa7636a33"
+    },
+    "tree/Pseudomonas/NY_PA_KPC_2025_2-3.2025_SNP_matrix.txt": {
+      "checksum": "55ec346e0f8d249ba50bd6099956c496"
+    },
+    "tree/Pseudomonas/NY_PA_KPC_2025_2-3.2025_tree.png": {
+      "checksum": "26730eaa765392f56977791ecd42c3a9"
+    },
+    "tree/Pseudomonas/NY_PA_VIM_2025_1-3.2025_SNP_matrix.txt": {
+      "checksum": "0f7830bfc80dc5b79e3cdfad805ca1b7"
+    },
+    "tree/Pseudomonas/NY_PA_VIM_2025_1-3.2025_tree.png": {
+      "checksum": "709ece10ca02d806d5ee7efdee4d2ca8"
+    },
+    "tree/Pseudomonas/NY_PA_VIM_2025_2-3.2025_SNP_matrix.txt": {
+      "checksum": "0e9b8fe389d8bf104f1cfcc94baa9301"
+    },
+    "tree/Pseudomonas/NY_PA_VIM_2025_2-3.2025_tree.png": {
+      "checksum": "105d193503c22029fa321a910800e376"
+    },
+    "tree/Pseudomonas/NY_PA_VIM_2025_3-3.2025_SNP_matrix.txt": {
+      "checksum": "a61202d9fb3815d587ed4175b7476d61"
+    },
+    "tree/Pseudomonas/NY_PA_VIM_2025_3-3.2025_tree.png": {
+      "checksum": "e15170bc91d83041967edb636c98b31a"
+    }
+  }
+}

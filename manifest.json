@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "locale": "English_United States.1252",
+  "metadata": {
+    "appmode": "jupyter-static",
+    "entrypoint": "HAI_Cluster_Visualization.ipynb"
+  },
+  "python": {
+    "version": "3.12.3",
+    "package_manager": {
+      "name": "pip",
+      "version": "24.3.1",
+      "package_file": "requirements.txt"
+    }
+  },
+  "files": {
+    "HAI_Cluster_Visualization.ipynb": {
+      "checksum": "ad348931f21b731955ab1bfd6a481d91"
+    },
+    "requirements.txt": {
+      "checksum": "b29cac6a410e93e0dd7e208dcb4d2e6e"
+    }
+  }
+}

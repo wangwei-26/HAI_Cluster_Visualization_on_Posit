@@ -81,7 +81,7 @@ sheet_names = [sheet for sheet in pd.ExcelFile(excel_file).sheet_names if sheet 
 
 # Load sequence data
 organism_df_dict = {}
-sequence_excel_file = pd.ExcelFile('docs/March.2025/Sequences_Mar2025.IDUpdated.xlsx', engine='openpyxl')###################################################
+sequence_excel_file = pd.ExcelFile('docs/March.2025/Sequences_Mar2025.xlsx', engine='openpyxl')###################################################
 for sheet_name in sequence_excel_file.sheet_names:
     df = pd.read_excel(sequence_excel_file, sheet_name)
     organism = sheet_name.split('_')[0]
